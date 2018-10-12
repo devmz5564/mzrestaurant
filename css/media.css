@@ -1,0 +1,545 @@
+/* Smart Phones And Tablets */
+
+@media (max-width: 767px)
+{
+    .navbar{
+        height: 200px;
+        
+        
+    }
+    #top{
+        margin-top: 20px;
+    }
+    .navbar-toggle{
+        margin-top: -170px;
+          
+    }
+     .navbar-inverse .navbar-nav > li > a
+    {
+        
+   border-color: white;
+   border-style: inset;
+  border-width: thin;
+  padding-top: 10px;
+        
+    }
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus > a:hover {
+    background-color: #A52421;
+    }
+    #n{
+        width: 380px;
+          margin-left: -20px; 
+       position: absolute;
+        background-color: #A52421;
+        margin-top: -135px;
+    }
+    #to{
+       margin-top: -50px;
+       margin-left: 150px;
+        position: absolute;
+        
+    }
+    .m{
+        height: 1450px;
+        margin-top: 200px;
+        width:500px;
+        
+        margin-left: -15px;
+        
+        
+        
+    }
+    #a{
+        margin-left: 25px;
+        
+        
+    }
+    #xx{
+        margin-left: 5px;
+        
+    }
+    #y 
+    {
+    margin-top: 1000px;
+    margin-left: 25px;
+    
+    }
+     #c2 
+    {
+     margin-left: 5px;
+    margin-top: 1020px  
+    }
+     #x
+    {
+    margin-top: 550px;
+        margin-left: 25px;
+    }
+      #a2
+    {
+    margin-top: 560px;
+    margin-left: 5px;
+        
+    }
+    .ch2{
+        margin-left: 25px;
+    }
+    .water{
+    margin-left: -130px;
+    font-size: 10px;
+        
+    }
+    #r{
+        font-size: 25px;
+    }
+  
+}
+#dish img{
+    background-size:contain;
+}
+#res{
+    height: 400px;
+}
+#res h1{
+    margin-left: 50px;
+    font-size: 20px;
+}
+#date{
+ 
+ 
+}
+.box{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.prise{
+  padding-left:30px;
+  margin-top: 30px; 
+
+}
+.b{
+    margin-left: 60px;
+    margin-top: 80px;
+}
+.footer{
+    height: 600px;
+}
+#p2{
+    margin-left: -20px;
+    border: none;
+    
+}
+#op{
+   margin-left: 20px;
+   margin-top: 170px;
+}
+#con{
+    margin-left: 20px;
+    margin-top: 250px;
+}
+#fo{
+   margin-left: 20px;
+   margin-top: 320px;  
+}
+#add{
+    margin-left: 30px;
+    margin-top: 400px;
+}
+/* Small Screen */
+
+@media (min-width: 768px) and (max-width: 991px)
+{
+
+     #n{
+        margin-left: 200px;
+    }
+    .fa-chevron-circle-right {
+   
+    margin-top: 300px;
+   
+}
+.fa-chevron-circle-left {
+margin-top: 300px;
+    }
+     #a{
+        margin-left: 30px;
+         width: 250px;   
+    }
+    #xx{
+        margin-left: 5px;
+        width: 300px;   
+    }
+      .x{
+         margin-left: 100px;
+         width: 250px;
+        
+    }
+    .b2{
+        margin-left: 70px;
+        width: 300px; 
+        
+    }
+    .y{
+      width: 250px; 
+    margin-left: 150px;
+    }
+    .c2{
+        width: 300px;
+        margin-left: 130px;
+    }
+    .see{
+        margin-left: 400px;
+       margin-bottom: 30px;
+    }
+    #link10{
+        margin-top: 5px;
+    }
+    #date{
+        margin-top: 30px;
+        margin-left: 50px;
+        
+    }
+    .res{
+        height: 100px;
+    }
+    .res h1{
+        
+        padding-left: 400px;
+          
+    }
+    .footer{
+        height: 280px;
+        
+    }
+    
+    
+    #p2{
+    padding-top: 60px;
+   
+    margin-left: 140px;
+    background-color: aqua;
+    height: 130px;
+    width: 190px;
+    background-color:#7d1917;;
+    border-right-color: white;
+    border-right-width:thin;
+    border-right-style:inset;
+    position: absolute;
+    margin-top: 60px;
+
+}
+#c{
+  position: absolute;
+    border-color: aquamarine;
+    margin-left: 50px;
+    padding-bottom: 100px;
+    margin-top: -40px;
+   
+}
+#add{
+    color: white;
+    margin-left: 350px;
+    position: absolute;
+    margin-top: 50px;
+    height: 150px;
+}
+#p1{
+    width: 180px;
+}
+#p3{
+    margin-top: 50px;
+}
+#op{
+   color: white;
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 50px;
+    height: 100px; 
+ 
+}
+#p5{
+   margin-top: -10px;
+}
+#con{
+   color: white;
+    margin-left: 840px;
+    position: absolute;
+    margin-top: 50px;
+    height: 100px; 
+}
+#link10{
+    margin-left: 5px;
+    margin-top: -10px;
+    position: absolute;
+}
+#fo{
+   color: white;
+    margin-left: 1000px;
+    position: absolute;
+    margin-top: 50px;
+    height: 100px;
+    
+}
+#fo .fa{
+    color: white;
+    padding-left: 10px;
+    
+}
+#fo h5{
+    margin-left: 40px;
+}
+    
+}
+
+/* Medium Screen */
+
+@media (min-width:992px) and (max-width: 1199px)
+{
+   
+      #a{
+        margin-left: 30px;
+         width: 250px;   
+    }
+      .fa-chevron-circle-right {
+   
+    margin-top: 300px;
+   
+}
+.fa-chevron-circle-left {
+margin-top: 300px;
+    }
+    
+    #xx{
+        margin-left: 5px;
+        width: 300px;   
+    }
+     .see{
+        margin-left: 400px;
+       margin-bottom: 10px;
+    }
+     #link10{
+        padding-top: 10px;
+    }
+      .x{
+         margin-left: 100px;
+         width: 250px;
+        
+    }
+    .b2{
+        margin-left: 70px;
+        width: 300px; 
+        
+    }
+    .y{
+      width: 250px; 
+    margin-left: 150px;
+    }
+    .c2{
+        width: 300px;
+        margin-left: 130px;
+    }
+    .see{
+        margin-left: 400px;
+       margin-bottom: 30px;
+    }
+    #link10{
+        margin-top: 5px;
+
+}
+     .ch2{
+        margin-left: 500px;
+    }
+    
+      #date{
+        margin-top: 30px;
+        margin-left: 50px;
+        
+    }
+    .res{
+        height: 100px;
+    }
+    .res h1{
+        
+        padding-left: 400px;
+          
+    }
+    .b
+    {
+        margin-top: 30px;
+        
+    }
+    #p2{
+    padding-top: 60px;
+   
+    margin-left: 140px;
+    background-color: aqua;
+    height: 130px;
+    width: 190px;
+    background-color:#7d1917;;
+    border-right-color: white;
+    border-right-width:thin;
+    border-right-style:inset;
+    position: absolute;
+    margin-top: 60px;
+
+}
+#c{
+  position: absolute;
+    border-color: aquamarine;
+    margin-left: 50px;
+    padding-bottom: 100px;
+    margin-top: -40px;
+   
+}
+#add{
+    color: white;
+    margin-left: 350px;
+    position: absolute;
+    margin-top: 50px;
+    height: 150px;
+}
+#p1{
+    width: 180px;
+}
+#p3{
+    margin-top: 50px;
+}
+#op{
+   color: white;
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 50px;
+    height: 100px; 
+ 
+}
+#p5{
+   margin-top: -10px;
+}
+#con{
+   color: white;
+    margin-left: 840px;
+    position: absolute;
+    margin-top: 50px;
+    height: 100px; 
+}
+#link10{
+    margin-left: 5px;
+    margin-top: -10px;
+    position: absolute;
+}
+#fo{
+   color: white;
+    margin-left: 1000px;
+    position: absolute;
+    margin-top: 50px;
+    height: 100px;
+    
+}
+#fo .fa{
+    color: white;
+    padding-left: 10px;
+    
+}
+#fo h5{
+    margin-left: 40px;
+}
+    .footer{
+    height: 300px;
+    }
+}
+
+
+
+/* Large Screen */
+
+@media (min-width:1200px)
+{
+      .see{
+        margin-left: 600px;
+       margin-bottom: 30px;
+    }
+ 
+    #res h1{
+        margin-left: 500px;
+    }
+    #date{
+         margin-left: 200px;
+         margin-top: 30px;
+    }
+    .prise{
+        margin-left: -180px;
+    }
+    .b{
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+.footer
+    {
+    height: 290px;
+}
+
+#p2
+    {
+    padding-top: 60px;
+   
+    margin-left: 140px;
+   
+    height: 130px;
+    width: 190px;
+    margin-top: 60px;
+     background-color:#7d1917;;
+    border-right-color: white;
+    border-right-width:thin;
+    border-right-style:inset;
+
+}
+
+#add{
+    margin-left: 350px;
+    position: absolute;
+    margin-top: 50px;
+    
+}
+#p1{
+    width: 180px;
+}
+#p3{
+    margin-top: 50px;
+}
+#op{
+   
+    margin-left: 600px;
+    position: absolute;
+    margin-top: 50px;    
+ 
+}
+#p5{
+   margin-top: -10px;
+}
+#con{
+   
+    margin-left: 840px;
+    position: absolute;
+    margin-top: 50px;
+     
+}
+
+#fo{
+   
+    margin-left: 1000px;
+    position: absolute;
+    margin-top: 50px;
+   
+    
+}
+#fo .fa
+{
+   
+    padding-left: 10px;
+    
+}
+
+}
+       
+       
+    
+    
